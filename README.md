@@ -1,2 +1,3 @@
-# Sharko64.github.io
-Portfolio Website
+# Portfolio Website
+
+Modular HTML, CSS and Vanilla JS architecture.

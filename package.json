@@ -1,0 +1,26 @@
+{
+  "name": "sharko64.github.io",
+  "version": "0.2.0",
+  "description": "Modular HTML, CSS and Vanilla JS architecture.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharko64/Sharko64.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sharko64/Sharko64.github.io/issues"
+  },
+  "homepage": "https://github.com/Sharko64/Sharko64.github.io#readme",
+  "devDependencies": {
+    "eslint": "^10.0.0",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.8.1"
+  }
+}

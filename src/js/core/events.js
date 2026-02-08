@@ -1,0 +1,1 @@
+export const on = (el, event, cb) => el?.addEventListener(event, cb);

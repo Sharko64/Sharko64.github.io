@@ -1,0 +1,29 @@
+@import "./base/reset.css";
+@import "./base/variables.css";
+@import "./base/typography.css";
+
+
+@import "./layout/header.css";
+@import "./layout/footer.css";
+@import "./layout/grid.css";
+
+
+@import "./components/navbar.css";
+@import "./components/modal.css";
+
+
+@import "./utils/helpers.css";
+@import "./utils/spacing.css";
+
+
+body {
+background: var(--color-bg);
+color: var(--color-text);
+}
+
+
+.container {
+max-width: 900px;
+margin: auto;
+padding: 2rem;
+}

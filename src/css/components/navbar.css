@@ -1,0 +1,17 @@
+.navbar {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+
+.nav-links {
+display: flex;
+gap: 1rem;
+list-style: none;
+}
+
+
+.nav-toggle {
+display: none;
+}
